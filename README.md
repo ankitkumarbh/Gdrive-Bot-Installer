@@ -22,7 +22,7 @@
 
 ### Deploy on [Heroku](https://heroku.com)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ankitkumarbh/Gdrive-Bot-Installer)
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fankitkumarbh%2FGdrive-Bot-Installer&plugins=postgresql&envs=API_HASH%2CAPP_ID%2CBOT_TOKEN%2CDATABASE_URL%2CDOWNLOAD_DIRECTORY%2CG_DRIVE_CLIENT_ID%2CG_DRIVE_CLIENT_SECRET%2CSUDO_USERS%2CSUPPORT_CHAT_LINK&SUDO_USERSDefault=859187586+1627023814&SUPPORT_CHAT_LINKDefault=https%3A%2F%2Fviperadnan-git.github.io)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fankitkumarbh%2FGdrive-Bot-Installer&plugins=postgresql&envs=API_HASH%2CAPP_ID%2CBOT_TOKEN%2CDOWNLOAD_DIRECTORY%2CG_DRIVE_CLIENT_ID%2CG_DRIVE_CLIENT_SECRET%2CSUDO_USERS%2CSUPPORT_CHAT_LINK&SUDO_USERSDefault=859187586+1627023814&SUPPORT_CHAT_LINKDefault=https%3A%2F%2Fviperadnan-git.github.io)
 
 ### Installation
 - Install required modules.
